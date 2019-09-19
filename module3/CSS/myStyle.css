@@ -1,0 +1,39 @@
+#logo {
+    background: aqua;
+    height: 200px;
+    width: 30%;
+    float: left;
+}
+
+#banner {
+    background: bisque;
+    height: 200px;
+    width: 30%;
+    float: right;
+}
+#side{
+    background: blue;
+    height: 200px;
+    width: 40%;
+    float: left;
+
+}
+
+#head {
+    background: antiquewhite;
+    height: 100px;
+    width: 100%;
+clear: both;
+}
+#input{
+    height: 30px;
+    width: 300px;
+    border-radius: 50px;
+    float: right;
+}
+#footer{
+    background: rebeccapurple;
+    height: 100px;
+    width: 100%;
+
+}
